@@ -1,9 +1,7 @@
 import React, { useState } from 'react';
-import { Navigate } from 'react-router';
 import { Link } from 'react-router-dom';
 import styled from 'styled-components';
-import axios from 'axios';
-import qs from "qs";
+
 
 
 
